@@ -10,6 +10,8 @@ Method 1: Adding the File to the Startup Folder
 Press Win + R to open the Run dialog.
 Type shell:startup and press Enter. This will open the Startup folder for the current user.
 Copy your .bat file into this folder. Any files in this folder will automatically run each time the system starts.
+
+
 Method 2: Creating a Task in Task Scheduler
 Open Task Scheduler by pressing Win, typing "Task Scheduler," and selecting it from the list.
 In Task Scheduler, click Create Task from the Actions pane on the right.
